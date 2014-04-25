@@ -3,7 +3,7 @@ GTangaza
 GTangaza is an online notice boards solution that enables organisations to sign up and manage their notices.
 
   GTangaza workflow
-  =================
+  
 For an organisation to use GTangaza, they have to sign up and define how they would like 
 the dashboard to look like.The definition of the dashboard is done by the dashboard administrator 
 who by default is the one who signed up.Other users can also be added as the notice board administrators. 
